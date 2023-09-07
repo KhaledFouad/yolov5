@@ -29,7 +29,7 @@ def detectAD():
     # # (replace this with your actual detection code)
     # output_image_path = x = run(weights= "best.pt", source= r"C:\Users\Fouad\yolov5\x.jpg" , conf_thres= 0.6 , imgsz= (640 ,640))
     # os.system('cp x.jpg output.jpg')
-    # # Return the path or link of the output image in the HTTP response
+    #  Return the path or link of the output image in the HTTP response
     # output_image_link = f"http://{request.host}/{output_image_path}"
     # return jsonify({'output_image_link': output_image_link})
 
